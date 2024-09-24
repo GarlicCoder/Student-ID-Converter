@@ -1,0 +1,19 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body {
+    padding: 20px 12px;
+    margin: auto;
+}
+.form-container {
+    padding: 20px;
+    border: 1px solid grey;
+    width: fit-content;
+}
+
+input {
+    padding: 10px  8px;
+    border: 1px solid #4e4f52;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
